@@ -1,2 +1,2 @@
 # Information-Page
-First assignemnt
+First assignment

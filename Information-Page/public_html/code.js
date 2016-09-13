@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var defaultPos = parseInt($('.NavItem').css("top"));
-    var newPos = defaultPos + 8;
+    var newPos = defaultPos + 6;
 
    $('.NavItem').hover(function() {
        $(this).stop(true);
